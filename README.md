@@ -9,7 +9,7 @@ OBS. Foi feito por mim apenas toda a funcionalidade JavaScript.
 - HTML (Fornecido pela Alura);
 - CSS (Fornecido pela Alura);
 
-![javascript-logo](https://github.com/user-attachments/assets/6890ea65-b8d8-4ca4-9502-28401d7fe89a)
+<img src="https://github.com/user-attachments/assets/6890ea65-b8d8-4ca4-9502-28401d7fe89a" alt="javascript-logo" width="50" height="auto"/>
 
 ## Funcionalidades
 - O jogo gera um número aleatório entre 1 e 5000.
